@@ -12,8 +12,12 @@ const variableA = () => {
 
   return variableA*3 + variableC*variableB
 return (
-  <><div>Home</div><button onclick={addItem} /></>
+  <><div>Home</div>
+  <p>Hola mundo</p>
+  <button onclick={addItem} /></>
+  
   )
 }
-
+/* Este es un comentario*/
   export default Home
+  /* Este es un comentario*/
