@@ -8,6 +8,7 @@ const variableA = () => {
   const addItem = 1;
   const variableB = 3;
   const variableC = 2;
+  const variabled = 6;
 
   return variableA*3 + variableC*variableB
 return (
